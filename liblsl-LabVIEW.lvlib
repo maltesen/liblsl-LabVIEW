@@ -11,74 +11,74 @@
 		<Item Name="lsl_streaminfo.ctl" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/Custom Controls/lsl_streaminfo.ctl"/>
 		<Item Name="lsl_xml_ptr.ctl" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/Custom Controls/lsl_xml_ptr.ctl"/>
 	</Item>
+	<Item Name="Outlet" Type="Folder">
+		<Item Name="lsl push chunk polymorphic instances" Type="Folder">
+			<Item Name="lsl push chunk d.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk d.vi"/>
+			<Item Name="lsl push chunk dt.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk dt.vi"/>
+			<Item Name="lsl push chunk dtn.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk dtn.vi"/>
+			<Item Name="lsl push chunk dtnp.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk dtnp.vi"/>
+			<Item Name="lsl push chunk dtp.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk dtp.vi"/>
+			<Item Name="lsl push chunk f.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk f.vi"/>
+			<Item Name="lsl push chunk ft.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk ft.vi"/>
+			<Item Name="lsl push chunk ftn.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk ftn.vi"/>
+			<Item Name="lsl push chunk ftnp.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk ftnp.vi"/>
+			<Item Name="lsl push chunk ftp.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk ftp.vi"/>
+			<Item Name="lsl push chunk i.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk i.vi"/>
+			<Item Name="lsl push chunk it.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk it.vi"/>
+			<Item Name="lsl push chunk itn.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk itn.vi"/>
+			<Item Name="lsl push chunk itnp.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk itnp.vi"/>
+			<Item Name="lsl push chunk itp.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk itp.vi"/>
+			<Item Name="lsl push chunk s.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk s.vi"/>
+			<Item Name="lsl push chunk st.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk st.vi"/>
+			<Item Name="lsl push chunk stn.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk stn.vi"/>
+			<Item Name="lsl push chunk stnp.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk stnp.vi"/>
+			<Item Name="lsl push chunk stp.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk stp.vi"/>
+		</Item>
+		<Item Name="lsl push sample polymorphic instances (NOT TESTED)" Type="Folder">
+			<Item Name="lsl push sample d.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push sample d.vi"/>
+			<Item Name="lsl push sample dt.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push sample dt.vi"/>
+			<Item Name="lsl push sample dtp.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push sample dtp.vi"/>
+			<Item Name="lsl push sample f.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push sample f.vi"/>
+			<Item Name="lsl push sample ft.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push sample ft.vi"/>
+			<Item Name="lsl push sample ftp.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push sample ftp.vi"/>
+			<Item Name="lsl push sample i.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push sample i.vi"/>
+			<Item Name="lsl push sample it.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push sample it.vi"/>
+			<Item Name="lsl push sample itp.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push sample itp.vi"/>
+			<Item Name="lsl push sample s.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push sample s.vi"/>
+			<Item Name="lsl push sample st.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push sample st.vi"/>
+			<Item Name="lsl push sample stp.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push sample stp.vi"/>
+			<Item Name="lsl push sample v.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push sample v.vi"/>
+			<Item Name="lsl push sample vt.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push sample vt.vi"/>
+			<Item Name="lsl push sample vtp.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push sample vtp.vi"/>
+		</Item>
+		<Item Name="lsl create outlet.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl create outlet.vi"/>
+		<Item Name="lsl destroy outlet.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl destroy outlet.vi"/>
+		<Item Name="lsl get info.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl get info.vi"/>
+		<Item Name="lsl push chunk (NOT TESTED).vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk (NOT TESTED).vi"/>
+		<Item Name="lsl push sample.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push sample.vi"/>
+	</Item>
+	<Item Name="Streaminfo" Type="Folder">
+		<Item Name="Accessors" Type="Folder">
+			<Item Name="lsl get channel bytes.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl get channel bytes.vi"/>
+			<Item Name="lsl get channel count.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl get channel count.vi"/>
+			<Item Name="lsl get channel format.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl get channel format.vi"/>
+			<Item Name="lsl get created at.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl get created at.vi"/>
+			<Item Name="lsl get desc.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl get desc.vi"/>
+			<Item Name="lsl get hostname.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl get hostname.vi"/>
+			<Item Name="lsl get name.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl get name.vi"/>
+			<Item Name="lsl get nominal srate.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl get nominal srate.vi"/>
+			<Item Name="lsl get sample bytes.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl get sample bytes.vi"/>
+			<Item Name="lsl get session id.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl get session id.vi"/>
+			<Item Name="lsl get source id.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl get source id.vi"/>
+			<Item Name="lsl get type.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl get type.vi"/>
+			<Item Name="lsl get uid.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl get uid.vi"/>
+			<Item Name="lsl get version.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl get version.vi"/>
+			<Item Name="lsl get xml.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl get xml.vi"/>
+		</Item>
+		<Item Name="lsl create streaminfo.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl create streaminfo.vi"/>
+		<Item Name="lsl destroy streaminfo.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl destroy streaminfo.vi"/>
+	</Item>
 	<Item Name="subvi" Type="Folder">
-		<Item Name="Outlet" Type="Folder">
-			<Item Name="lsl push chunk polymorphic instances" Type="Folder">
-				<Item Name="lsl push chunk d.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk d.vi"/>
-				<Item Name="lsl push chunk dt.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk dt.vi"/>
-				<Item Name="lsl push chunk dtn.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk dtn.vi"/>
-				<Item Name="lsl push chunk dtnp.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk dtnp.vi"/>
-				<Item Name="lsl push chunk dtp.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk dtp.vi"/>
-				<Item Name="lsl push chunk f.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk f.vi"/>
-				<Item Name="lsl push chunk ft.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk ft.vi"/>
-				<Item Name="lsl push chunk ftn.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk ftn.vi"/>
-				<Item Name="lsl push chunk ftnp.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk ftnp.vi"/>
-				<Item Name="lsl push chunk ftp.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk ftp.vi"/>
-				<Item Name="lsl push chunk i.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk i.vi"/>
-				<Item Name="lsl push chunk it.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk it.vi"/>
-				<Item Name="lsl push chunk itn.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk itn.vi"/>
-				<Item Name="lsl push chunk itnp.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk itnp.vi"/>
-				<Item Name="lsl push chunk itp.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk itp.vi"/>
-				<Item Name="lsl push chunk s.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk s.vi"/>
-				<Item Name="lsl push chunk st.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk st.vi"/>
-				<Item Name="lsl push chunk stn.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk stn.vi"/>
-				<Item Name="lsl push chunk stnp.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk stnp.vi"/>
-				<Item Name="lsl push chunk stp.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk stp.vi"/>
-			</Item>
-			<Item Name="lsl push sample polymorphic instances (NOT TESTED)" Type="Folder">
-				<Item Name="lsl push sample d.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push sample d.vi"/>
-				<Item Name="lsl push sample dt.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push sample dt.vi"/>
-				<Item Name="lsl push sample dtp.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push sample dtp.vi"/>
-				<Item Name="lsl push sample f.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push sample f.vi"/>
-				<Item Name="lsl push sample ft.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push sample ft.vi"/>
-				<Item Name="lsl push sample ftp.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push sample ftp.vi"/>
-				<Item Name="lsl push sample i.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push sample i.vi"/>
-				<Item Name="lsl push sample it.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push sample it.vi"/>
-				<Item Name="lsl push sample itp.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push sample itp.vi"/>
-				<Item Name="lsl push sample s.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push sample s.vi"/>
-				<Item Name="lsl push sample st.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push sample st.vi"/>
-				<Item Name="lsl push sample stp.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push sample stp.vi"/>
-				<Item Name="lsl push sample v.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push sample v.vi"/>
-				<Item Name="lsl push sample vt.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push sample vt.vi"/>
-				<Item Name="lsl push sample vtp.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push sample vtp.vi"/>
-			</Item>
-			<Item Name="lsl create outlet.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl create outlet.vi"/>
-			<Item Name="lsl destroy outlet.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl destroy outlet.vi"/>
-			<Item Name="lsl get info.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl get info.vi"/>
-			<Item Name="lsl push chunk (NOT TESTED).vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push chunk (NOT TESTED).vi"/>
-			<Item Name="lsl push sample.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl push sample.vi"/>
-		</Item>
-		<Item Name="Streaminfo" Type="Folder">
-			<Item Name="Accessors" Type="Folder">
-				<Item Name="lsl get channel bytes.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl get channel bytes.vi"/>
-				<Item Name="lsl get channel count.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl get channel count.vi"/>
-				<Item Name="lsl get channel format.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl get channel format.vi"/>
-				<Item Name="lsl get created at.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl get created at.vi"/>
-				<Item Name="lsl get desc.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl get desc.vi"/>
-				<Item Name="lsl get hostname.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl get hostname.vi"/>
-				<Item Name="lsl get name.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl get name.vi"/>
-				<Item Name="lsl get nominal srate.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl get nominal srate.vi"/>
-				<Item Name="lsl get sample bytes.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl get sample bytes.vi"/>
-				<Item Name="lsl get session id.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl get session id.vi"/>
-				<Item Name="lsl get source id.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl get source id.vi"/>
-				<Item Name="lsl get type.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl get type.vi"/>
-				<Item Name="lsl get uid.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl get uid.vi"/>
-				<Item Name="lsl get version.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl get version.vi"/>
-				<Item Name="lsl get xml.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl get xml.vi"/>
-			</Item>
-			<Item Name="lsl create streaminfo.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl create streaminfo.vi"/>
-			<Item Name="lsl destroy streaminfo.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl destroy streaminfo.vi"/>
-		</Item>
 		<Item Name="Error Converter (ErrCode or Status).vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/subvi/Error Converter (ErrCode or Status).vi"/>
 	</Item>
 	<Item Name="TODO" Type="Folder">
@@ -206,5 +206,7 @@
 			<Item Name="lsl copy streaminfo.vi" Type="VI" URL="/&lt;userlib&gt;/liblsl-LabVIEW/VIs/lsl copy streaminfo.vi"/>
 		</Item>
 	</Item>
-	<Item Name="liblsl64.dll" Type="Document" URL="/&lt;userlib&gt;/liblsl-LabVIEW/liblsl64.dll"/>
+	<Item Name="liblsl64.dll" Type="Document" URL="/&lt;userlib&gt;/liblsl-LabVIEW/liblsl64.dll">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+	</Item>
 </Library>
